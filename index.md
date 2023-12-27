@@ -18,5 +18,5 @@ Yan Fan (范妍) received her B.S. degree from NorthWest University, Xi'an, Chin
 {% include_relative _includes/publications.md %}
 
 ## Correspondence
-- ** Email: fyan_0411@tju.edu.cn
-- ** Address: Building 55, College of Intelligence and Computing, Tianjin University Beiyangyuan Campus, No. 135 Yaguan Road, Jinnan District, Tianjin, 300350 
+- Email: fyan_0411@tju.edu.cn
+- Address: Building 55, College of Intelligence and Computing, Tianjin University Beiyangyuan Campus, No. 135 Yaguan Road, Jinnan District, Tianjin, 300350 
