@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm a fourth-grade doctoral student from [Tianjin University](https://www.tju.edu.cn/). My research interests include computer vision, graph learning, and continual learning. 
+I am very fortunate to be advised by [Prof. Qinghua Hu](https://cic.tju.edu.cn/faculty/huqinghua/index.html) and [Prof. Pengfei Zhu](https://cic.tju.edu.cn/faculty/zhupengfei/index.html) from Tianjin University.
+
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** image generation, 3D semantic Segmetation
+- **Machine Learning:** weakly supervised learning, continual learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Dec. 2023]** Our paper about continual learning is accepted to AAAI 2024.
+- **[Jun. 2023]** The CVPR 2021 workshop on continual learning in computer vision (CLVision) Second Prize.
 
 {% include_relative _includes/publications.md %}
 
