@@ -17,5 +17,5 @@ main:
     pdf: http://arxiv.org/abs/2312.16409
     code: https://github.com/fanyan0411/DSGD
     bibtex: https://bib.yliu/MICCAI23.txt
-    image: ./assets/img/MSGL.png
+    image: ./assets/img/PsHD-framework.PNG
     notes: Early Accept
