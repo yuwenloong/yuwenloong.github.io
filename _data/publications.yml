@@ -4,9 +4,6 @@ main:
     authors: <strong>Yan Fan</strong>, Yu Wang, Pengfei Zhu, Dongyue Chen, Qinghua Hu
     conference_short: NeurIPS
     conference: Conference and Workshop on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
-    pdf: http://arxiv.org/abs/2312.16409
-    code: https://github.com/fanyan0411/DSGD
-    bibtex: https://bib.yliu/MICCAI23.txt
     image: ./assets/img/PsHD-framework.PNG
     notes: Early Accept
 
@@ -18,6 +15,5 @@ main:
     code: https://github.com/fanyan0411/DSGD
     bibtex: https://bib.yliu/MICCAI23.txt
     image: ./assets/img/MSGL.png
-    notes: Early Accept
 
   
