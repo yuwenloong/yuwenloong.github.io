@@ -7,11 +7,12 @@ Yan Fan (范妍) received her B.S. degree and M.S. degree from NorthWest Univers
 
 ## Research Interests
 
-- **Computer Vision:** image generation, 3D semantic segmentation
-- **Machine Learning:** weakly supervised learning, continual learning
+- **Computer Vision:** Image Recognition, 3D Semantic Segmentation
+- **Machine Learning:** Weakly supervised learning, Continual learning
 
 ## News
 
+- **[Sep. 2024]** Our paper about continual learning is accepted to NeurIPS 2024.
 - **[Dec. 2023]** Our paper about continual learning is accepted to AAAI 2024.
 - **[Jun. 2023]** We have won the runner-up of CVPR 2023 Continual Learning Challenge.
 
