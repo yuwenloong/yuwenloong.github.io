@@ -7,7 +7,7 @@ Yan Fan (范妍) received her B.S. degree and M.S. degree from NorthWest Univers
 
 ## Research Interests
 
-- **Computer Vision:** Image Recognition, 3D Semantic Segmentation
+- **Computer Vision:** Image recognition, 3D Semantic segmentation
 - **Machine Learning:** Weakly supervised learning, Continual learning
 
 ## News
