@@ -3,7 +3,7 @@ main:
   - title: Persistence Homology Distillation for Semi-supervised Continual Learning
     authors: <strong>Yan Fan</strong>, Yu Wang, Pengfei Zhu, Dongyue Chen, Qinghua Hu
     conference_short: NeurIPS
-    conference: Conference and Workshop on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     image: ./assets/img/PsHD-framework.PNG
     notes: Early Accept
 
