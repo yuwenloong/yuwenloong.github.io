@@ -7,6 +7,7 @@ main:
     pdf: https://openreview.net/pdf?id=qInb7EUmxz
     code: https://github.com/fanyan0411/PSHD
     image: ./assets/img/PsHD-framework.PNG
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:JZub_bBhThcJ:scholar.google.com/&output=citation&scisdr=ClHwSeveEMbToQ4C15I:AFWwaeYAAAAAZ7MEz5Kh0P80T0dSMfJQlHWaxFc&scisig=AFWwaeYAAAAAZ7MEz2Kji-4Uea5kv4_D832HNEY&scisf=4&ct=citation&cd=-1&hl=zh-CN
     notes: Early Accept
 
   - title: Dynamic Sub-graph Distillation for Robust Semi-supervised Continual Learning
