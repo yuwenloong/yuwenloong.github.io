@@ -1,5 +1,13 @@
 main:
 
+  - title: Uncertainty-aware Superpoint Graph Transformer for Weakly Supervised 3D Semantic Segmentation
+    authors: <strong>Yan Fan</strong>, Yu Wang, Pengfei Zhu, Le Hui, Jin Xie, Qinghua Hu
+    conference_short: IEEE TFS
+    conference:  IEEE Transactions on Fuzzy Systems <strong>(IEEE TFS)</strong>, 2025.
+    notes: Early Accept
+    image: ./assets/img/MSGL.png
+
+
   - title: Persistence Homology Distillation for Semi-supervised Continual Learning
     authors: <strong>Yan Fan</strong>, Yu Wang, Pengfei Zhu, Dongyue Chen, Qinghua Hu
     conference_short: NeurIPS
