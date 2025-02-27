@@ -1,5 +1,12 @@
 main:
 
+  - title: Reducing Class wise Confusion for Incremental Learning with Disentangled Manifolds
+    authors:  Huitong Chen, Yu Wang, <strong>Yan Fan</strong>, Guosong Jiang, Qinghua Hu
+    conference_short: CVPR
+    conference:  Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    notes: Early Accept
+    image: ./assets/img/CREAT_framework.png
+
   - title: Uncertainty-aware Superpoint Graph Transformer for Weakly Supervised 3D Semantic Segmentation
     authors: <strong>Yan Fan</strong>, Yu Wang, Pengfei Zhu, Le Hui, Jin Xie, Qinghua Hu
     conference_short: IEEE TFS
