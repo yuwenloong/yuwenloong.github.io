@@ -12,13 +12,12 @@ Wenlong Yu (于文龙) received her B.S. degree and M.S. degree from Shandong Un
 
 ## News
 - **[Feb. 2025]** Our paper about continual learning is accepted to CVPR 2025.
-- **[Feb. 2025]** Our paper about 3D semantic segmentation is accepted to IEEE TFS 2025.
-- **[Sep. 2024]** Our paper about continual learning is accepted to NeurIPS 2024.
-- **[Dec. 2023]** Our paper about continual learning is accepted to AAAI 2024.
-- **[Jun. 2023]** We have won the runner-up of CVPR 2023 Continual Learning Challenge.
+- **[Feb. 2025]** Our paper about 3D semantic segmentation is accepted to IEEE TMM 2025.
+- **[Dec. 2024]** Our paper about continual learning is accepted to TIP 2024.
+- **[Dec. 2023]** Our paper about continual learning is accepted to TNNLS 2023.
 
 {% include_relative _includes/publications.md %}
 
 ## Correspondence
-- Email: fyan_0411@tju.edu.cn
+- Email: ywl_95@tju.edu.cn
 - Address: Building 55, College of Intelligence and Computing, Tianjin University Beiyangyuan Campus, No. 135 Yaguan Road, Jinnan District, Tianjin, 300350 
