@@ -7,8 +7,8 @@ Wenlong Yu (于文龙) received her B.S. degree and M.S. degree from Shandong Un
 
 ## Research Interests
 
-- **Computer Vision:** Image recognition, 3D Semantic segmentation
-- **Machine Learning:** Weakly supervised learning, Continual learning
+- **Computer Vision:** Image recognition, Object detection, Embodidded AI
+- **Machine Learning:** Explainable Artificial Intelligence(XAI), Generalization, Continual learning
 
 ## News
 - **[Feb. 2025]** Our paper about continual learning is accepted to CVPR 2025.
