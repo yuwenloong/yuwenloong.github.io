@@ -7,9 +7,9 @@ Wenlong Yu (于文龙) received her B.S. degree and M.S. degree from Shandong Un
 
 ## Research Interests
 
-- **Computer Vision:** Image recognition, Object detection, Embodidded AI, Vision-language Model
+- **Computer Vision:** Image recognition, Object detection, Embodied AI, Vision-language Model
 - **Machine Learning:** Explainable Artificial Intelligence(XAI), Generalization, Continual learning
-- **Applications:** Intelligence fault diagnosis, Medical image processing
+- **Applications:** Intelligent fault diagnosis, Medical image processing
 
 ## News
 - **[Feb. 2025]** Our paper about continual learning is accepted to CVPR 2025.
