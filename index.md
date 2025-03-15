@@ -16,6 +16,7 @@ Wenlong Yu (于文龙) received her B.S. degree and M.S. degree from Shandong Un
 - **[Feb. 2025]** Our paper about generalization and fine-grained recognition is accepted to IEEE TMM 2025.
 - **[Dec. 2024]** Our paper about XAI and object detection (DETR) is accepted to TIP 2024.
 - **[Dec. 2023]** Our paper about intelligent fault diagnosis is accepted to TNNLS 2023.
+- **[Dec. 2021]** Our paper about intelligent fault diagnosis is accepted to ACAIT 2021.
 
 {% include_relative _includes/publications.md %}
 
