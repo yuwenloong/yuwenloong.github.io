@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-Yan Fan (范妍) received her B.S. degree and M.S. degree from NorthWest University, Xi'an, China, in 2017 and 2020, respectively. She is currently working towards the Ph.D. degree in the College of Intelligence and Computing, Tianjin University, Tianjin, China. Her supervisor is Prof. [Qinghua Hu (胡清华)](https://cic.tju.edu.cn/faculty/huqinghua/index.html). She also works closely with Prof. [Pengfei Zhu (朱鹏飞)](https://cic.tju.edu.cn/faculty/zhupengfei/index.html) and Assoc. Prof.  [Yu Wang (王煜)](https://wangyutju.github.io/) in Tianjin University. 
+Wenlong Yu (于文龙) received her B.S. degree and M.S. degree from Shandong University, Jinan, China, in 2017 and 2020, respectively. He is currently working towards the Ph.D. degree in the College of Intelligence and Computing, Tianjin University, Tianjin, China. Her supervisor is Prof. [Qinghua Hu (胡清华)](https://cic.tju.edu.cn/faculty/huqinghua/index.html). She also works closely with Prof. [Qinglong Wang (王旗龙)](https://csqlwang.github.io/homepage/) in Tianjin University. 
 
 ## Research Interests
 
