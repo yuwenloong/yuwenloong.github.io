@@ -33,4 +33,14 @@ main:
     code: https://github.com/fanyan0411/DSGD
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:k9MqyzVg0VsJ:scholar.google.com/&output=citation&scisdr=ClHwSeveEMbToQ4AEzQ:AFWwaeYAAAAAZ7MGCzS6Sn62V1SjUD2XQ_docfE&scisig=AFWwaeYAAAAAZ7MGCzCVEUpRflZQRL1KCSKVMDc&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
     image: ./assets/img/MSGL.png
+
+
+  - title: Explainability Enhanced Object Detection Transformer With Feature Disentanglement
+    authors: <strong>Wenlong Yu</strong>, Dongyue Chen, Qilong Wang, Qinghua Hu
+    conference_short: IEEE TIP
+    conference:  IEEE Transactions on Image Processing <strong>(IEEE TIP)</strong>, 2024.
+    image: ./assets/img/UaSGT_framework.png.png
+    pdf:
+    code:
+    bibtex: 
   
