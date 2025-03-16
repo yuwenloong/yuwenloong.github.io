@@ -15,6 +15,7 @@ main:
     pdf:
     code:
     bibtex:
+    notes: Early Accept
 
   - title: Explainability Enhanced Object Detection Transformer With Feature Disentanglement
     authors: <strong>Wenlong Yu</strong>, Dongyue Chen, Qilong Wang, Qinghua Hu
