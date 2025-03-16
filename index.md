@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-Wenlong Yu (于文龙) received her B.S. degree and M.S. degree from Shandong University, Jinan, China, in 2017 and 2020, respectively. He is currently working towards the Ph.D. degree in the College of Intelligence and Computing, Tianjin University, Tianjin, China. His supervisor is Prof. [Qinghua Hu (胡清华)](https://cic.tju.edu.cn/faculty/huqinghua/index.html). He also works closely with Prof. [Qilong Wang (王旗龙)](https://csqlwang.github.io/homepage/) in Tianjin University. 
+Wenlong Yu (于文龙) received his B.S. degree and M.S. degree from Shandong University, Jinan, China, in 2017 and 2020, respectively. He is currently working towards the Ph.D. degree in the College of Intelligence and Computing, Tianjin University, Tianjin, China. His supervisor is Prof. [Qinghua Hu (胡清华)](https://cic.tju.edu.cn/faculty/huqinghua/index.html). He also works closely with Prof. [Qilong Wang (王旗龙)](https://csqlwang.github.io/homepage/) in Tianjin University. 
 
 ## Research Interests
 
