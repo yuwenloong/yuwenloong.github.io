@@ -30,9 +30,9 @@ main:
     conference_short: TNNLS
     conference:  IEEE Transactions on Neural Networks and Learning Systems <strong>(IEEE TNNLS)</strong>, 2023.
     image: ./assets/img/bhgnn-tnnls23-cdy.png
-    pdf:
-    code:
-    bibtex: 
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10285728
+    code: https://github.com/CCWAO/BHGNN
+    bibtex: https://ieeexplore.ieee.org/abstract/document/10285728
 
 
 
