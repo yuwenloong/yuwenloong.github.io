@@ -1,15 +1,30 @@
 main:
 
-  - title: CoE: Chain-of-Explanation for Automatic Visual Concept Circuit Description and Polysemanticity Quantification
-    authors:  <strong>Wenlong Yu</strong>, Qilong Wang, Chuang Liu, Dong Li, Qinghua Hu
+  - title: Reducing Class wise Confusion for Incremental Learning with Disentangled Manifolds
+    authors:  Huitong Chen, Yu Wang, <strong>Yan Fan</strong>, Guosong Jiang, Qinghua Hu
     conference_short: CVPR
     conference:  Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
     notes: Early Accept
     image: ./assets/img/CREATE.png
 
+  - title: Uncertainty-aware Superpoint Graph Transformer for Weakly Supervised 3D Semantic Segmentation
+    authors: <strong>Yan Fan</strong>, Yu Wang, Pengfei Zhu, Le Hui, Jin Xie, Qinghua Hu
+    conference_short: IEEE TFS
+    conference:  IEEE Transactions on Fuzzy Systems <strong>(IEEE TFS)</strong>, 2025.
+    notes: Early Accept
+    image: ./assets/img/UaSGT_framework.png.png
 
+
+  - title: Persistence Homology Distillation for Semi-supervised Continual Learning
+    authors: <strong>Yan Fan</strong>, Yu Wang, Pengfei Zhu, Dongyue Chen, Qinghua Hu
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    pdf: https://openreview.net/pdf?id=qInb7EUmxz
+    code: https://github.com/fanyan0411/PSHD
+    image: ./assets/img/PsHD-framework.PNG
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:JZub_bBhThcJ:scholar.google.com/&output=citation&scisdr=ClHwSeveEMbToQ4C15I:AFWwaeYAAAAAZ7MEz5Kh0P80T0dSMfJQlHWaxFc&scisig=AFWwaeYAAAAAZ7MEz2Kji-4Uea5kv4_D832HNEY&scisf=4&ct=citation&cd=-1&hl=zh-CN
     
-   
+
   - title: Dynamic Sub-graph Distillation for Robust Semi-supervised Continual Learning
     authors: <strong>Yan Fan</strong>, Yu Wang, Pengfei Zhu, Qinghua Hu
     conference_short: AAAI
@@ -18,5 +33,4 @@ main:
     code: https://github.com/fanyan0411/DSGD
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:k9MqyzVg0VsJ:scholar.google.com/&output=citation&scisdr=ClHwSeveEMbToQ4AEzQ:AFWwaeYAAAAAZ7MGCzS6Sn62V1SjUD2XQ_docfE&scisig=AFWwaeYAAAAAZ7MGCzCVEUpRflZQRL1KCSKVMDc&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
     image: ./assets/img/MSGL.png
-
   
