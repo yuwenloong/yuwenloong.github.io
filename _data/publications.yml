@@ -42,7 +42,7 @@ main:
     image: ./assets/img/UaSGT_framework.png.png
     pdf:
     code:
-    bibtex: 
+    bibtex:
 
   - title: Fine-Grained Domain Generalization with Feature Structuralization
     authors: <strong>Wenlong Yu</strong>, Ruonan Liu, Dongyue Chen, Qinghua Hu
@@ -51,4 +51,16 @@ main:
     image: ./assets/img/UaSGT_framework.png.png
     pdf:
     code:
+    bibtex:
+
+  - title: Bayesian hierarchical graph neural networks with uncertainty feedback for trustworthy fault diagnosis of industrial processes
+    authors: Dongyue Chen, Zongxia Xie, Ruonan Liu, <strong>Wenlong Yu</strong>, Qinghua Hu, Xianling Li, Steven X Ding
+    conference_short: TNNLS
+    conference:  IEEE Transactions on Neural Networks and Learning Systems <strong>(IEEE TNNLS)</strong>, 2023.
+    image: ./assets/img/UaSGT_framework.png
+    pdf:
+    code:
     bibtex: 
+
+
+    
