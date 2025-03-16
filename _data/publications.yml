@@ -12,7 +12,7 @@ main:
     conference_short: IEEE TFS
     conference:  IEEE Transactions on Fuzzy Systems <strong>(IEEE TFS)</strong>, 2025.
     notes: Early Accept
-    image: ./assets/img/UaSGT_framework.png.png
+    image: ./assets/img/UaSGT_framework.png
 
 
   - title: Persistence Homology Distillation for Semi-supervised Continual Learning
@@ -39,22 +39,22 @@ main:
     authors: <strong>Wenlong Yu</strong>, Dongyue Chen, Qilong Wang, Qinghua Hu
     conference_short: IEEE TIP
     conference:  IEEE Transactions on Image Processing <strong>(IEEE TIP)</strong>, 2024.
-    image: ./assets/img/UaSGT_framework.png.png
+    image: ./assets/img/UaSGT_framework.png
     pdf:
     code:
     bibtex: 
 
   - title: Fine-Grained Domain Generalization with Feature Structuralization
-    authors:  <strong>Wenlong Yu</strong>, Ruonan Liu, Dongyue Chen, Qinghua Hu
+    authors: <strong>Wenlong Yu</strong>, Ruonan Liu, Dongyue Chen, Qinghua Hu
     conference_short: IEEE TMM
-    conference:  IEEE Transactions on Multimedia <strong>(IEEE TMM)</strong>, 2025. 
-    image: ./assets/img/UaSGT_framework.png.png
+    conference: IEEE Transactions on Multimedia <strong>(IEEE TMM)</strong>, 2025. 
+    image: ./assets/img/UaSGT_framework.png
     pdf:
     code:
     bibtex: 
 
   - title: CoE: Chain-of-Explanation for Automatic Visual Concept Circuit Description and Polysemanticity Quantification
-    authors:  <strong>Wenlong Yu</strong>, Qilong Wang, Chuang Liu, Dong Li, Qinghua Hu 
+    authors: <strong>Wenlong Yu</strong>, Qilong Wang, Chuang Liu, Dong Li, Qinghua Hu 
     conference_short: CVPR 
     conference:  Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025. 
     notes: Early Accept 
@@ -64,7 +64,7 @@ main:
     authors: Dongyue Chen, Zongxia Xie, Ruonan Liu, <strong>Wenlong Yu</strong>, Qinghua Hu, Xianling Li, Steven X Ding
     conference_short: TNNLS
     conference:  IEEE Transactions on Neural Networks and Learning Systems <strong>(IEEE TNNLS)</strong>, 2023.
-    image: ./assets/img/UaSGT_framework.png.png
+    image: ./assets/img/UaSGT_framework.png
     pdf:
     code:
     bibtex: 
