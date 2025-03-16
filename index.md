@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## [About Me](https://github.com/yuwenloong/yuwenloong.github.io)
 Wenlong Yu (于文龙) received his B.S. degree and M.S. degree from Shandong University, Jinan, China, in 2017 and 2020, respectively. He is currently working towards the Ph.D. degree in the College of Intelligence and Computing, Tianjin University, Tianjin, China. His supervisor is Prof. [Qinghua Hu (胡清华)](https://cic.tju.edu.cn/faculty/huqinghua/index.html). He also works closely with Prof. [Qilong Wang (王旗龙)](https://csqlwang.github.io/homepage/) and Assoc. Prof. [Dongyue Chen (陈东月)](https://dyuechen.github.io/) in Tianjin University. 
 
 ## Research Interests
