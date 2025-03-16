@@ -13,18 +13,18 @@ main:
     conference:  IEEE Transactions on Multimedia <strong>(IEEE TMM)</strong>, 2025.
     notes: Early Accept
     image: ./assets/img/UaSGT_framework.png.png
-    pdf:
-    code:
-    bibtex: 
+    pdf: 1
+    code: 1
+    bibtex: 1
 
   - title: Explainability Enhanced Object Detection Transformer With Feature Disentanglement
     authors: <strong>Wenlong Yu</strong>, Dongyue Chen, Qilong Wang, Qinghua Hu
     conference_short: IEEE TIP
     conference:  IEEE Transactions on Image Processing <strong>(IEEE TIP)</strong>, 2024.
     image: ./assets/img/UaSGT_framework.png.png
-    pdf:
-    code:
-    bibtex: 
+    pdf: 1
+    code: 1
+    bibtex: 1 
 
 
   - title: Bayesian hierarchical graph neural networks with uncertainty feedback for trustworthy fault diagnosis of industrial processes
@@ -32,9 +32,9 @@ main:
     conference_short: TNNLS
     conference:  IEEE Transactions on Neural Networks and Learning Systems <strong>(IEEE TNNLS)</strong>, 2023.
     image: ./assets/img/UaSGT_framework.png.png
-    pdf:
-    code:
-    bibtex: 
+    pdf: 1
+    code: 1
+    bibtex: 1 
     
    
   - title: Dynamic Sub-graph Distillation for Robust Semi-supervised Continual Learning
