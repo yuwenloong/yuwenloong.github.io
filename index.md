@@ -20,6 +20,13 @@ Wenlong Yu (于文龙) received his B.S. degree and M.S. degree from Shandong Un
 
 {% include_relative _includes/publications.md %}
 
+## Honors
+National Scholarship, 
+The First Prize Scholarship, 
+Tianjin University Merit Student, 
+Outstanding graduates of Shandong Province
+
+
 ## Correspondence
 - Email: ywl_95@tju.edu.cn
 - Address: Building 55, College of Intelligence and Computing, Tianjin University Beiyangyuan Campus, No. 135 Yaguan Road, Jinnan District, Tianjin, 300350 
