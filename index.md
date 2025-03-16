@@ -14,8 +14,8 @@ Wenlong Yu (于文龙) received his B.S. degree and M.S. degree from Shandong Un
 ## News
 - **[Feb. 2025]** One paper about XAI and polysemanticity quantification is accepted to CVPR 2025.
 - **[Feb. 2025]** Our paper about generalization and fine-grained recognition is accepted to IEEE TMM 2025.
-- **[Dec. 2024]** Our paper about XAI and object detection (DETR) is accepted to TIP 2024.
-- **[Dec. 2023]** Our paper about intelligent fault diagnosis is accepted to TNNLS 2023.
+- **[Dec. 2024]** Our paper about XAI and object detection (DETR) is accepted to IEEE TIP 2024.
+- **[Dec. 2023]** Our paper about intelligent fault diagnosis is accepted to IEEE TNNLS 2023.
 - **[Dec. 2021]** Three papers about intelligent fault diagnosis are accepted to ACAIT 2021.
 
 {% include_relative _includes/publications.md %}
