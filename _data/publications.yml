@@ -52,4 +52,20 @@ main:
     pdf:
     code:
     bibtex: 
+
+  - title: CoE: Chain-of-Explanation for Automatic Visual Concept Circuit Description and Polysemanticity Quantification
+    authors:  <strong>Wenlong Yu</strong>, Qilong Wang, Chuang Liu, Dong Li, Qinghua Hu 
+    conference_short: CVPR 
+    conference:  Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025. 
+    notes: Early Accept 
+    image: ./assets/img/CREATE.png
+
+  - title: Bayesian hierarchical graph neural networks with uncertainty feedback for trustworthy fault diagnosis of industrial processes
+    authors: Dongyue Chen, Zongxia Xie, Ruonan Liu, <strong>Wenlong Yu</strong>, Qinghua Hu, Xianling Li, Steven X Ding
+    conference_short: TNNLS
+    conference:  IEEE Transactions on Neural Networks and Learning Systems <strong>(IEEE TNNLS)</strong>, 2023.
+    image: ./assets/img/UaSGT_framework.png.png
+    pdf:
+    code:
+    bibtex: 
   
