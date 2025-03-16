@@ -11,6 +11,7 @@ main:
     authors:  <strong>Wenlong Yu</strong>, Ruonan Liu, Dongyue Chen, Qinghua Hu
     conference_short: IEEE TMM
     conference:  IEEE Transactions on Multimedia <strong>(IEEE TMM)</strong>, 2025.
+    notes: Early Accept
     image: ./assets/img/UaSGT_framework.png.png
     pdf:
     code:
