@@ -43,4 +43,13 @@ main:
     pdf:
     code:
     bibtex: 
+
+  - title: Fine-Grained Domain Generalization with Feature Structuralization
+    authors:  <strong>Wenlong Yu</strong>, Ruonan Liu, Dongyue Chen, Qinghua Hu
+    conference_short: IEEE TMM
+    conference:  IEEE Transactions on Multimedia <strong>(IEEE TMM)</strong>, 2025. 
+    image: ./assets/img/UaSGT_framework.png.png
+    pdf:
+    code:
+    bibtex: 
   
