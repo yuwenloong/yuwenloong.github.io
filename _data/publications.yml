@@ -12,9 +12,9 @@ main:
     conference_short: IEEE TIP
     conference:  IEEE Transactions on Image Processing <strong>(IEEE TIP)</strong>, 2024.
     image: ./assets/img/detd_tip24.png
-    pdf:
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10751766
     code:
-    bibtex:
+    bibtex: https://ieeexplore.ieee.org/abstract/document/10751766
 
   - title: Fine-Grained Domain Generalization with Feature Structuralization
     authors: <strong>Wenlong Yu</strong>, Ruonan Liu, Dongyue Chen, Qinghua Hu
