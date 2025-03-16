@@ -52,11 +52,3 @@ main:
     pdf:
     code:
     bibtex: 
-
-  - title: CoE: Chain-of-Explanation for Automatic Visual Concept Circuit Description and Polysemanticity Quantification
-    authors: <strong>Wenlong Yu</strong>, Qilong Wang, Chuang Liu, Dong Li, Qinghua Hu 
-    conference_short: CVPR 
-    conference:  Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025. 
-    notes: Early Accept 
-    image: ./assets/img/CREATE.png
-  
