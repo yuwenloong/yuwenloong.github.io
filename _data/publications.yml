@@ -7,15 +7,6 @@ main:
     notes: Early Accept
     image: ./assets/img/coe-cvpr25.png
 
-  - title: Explainability Enhanced Object Detection Transformer With Feature Disentanglement
-    authors: <strong>Wenlong Yu</strong>, Dongyue Chen, Qilong Wang, Qinghua Hu
-    conference_short: IEEE TIP
-    conference:  IEEE Transactions on Image Processing <strong>(IEEE TIP)</strong>, 2024.
-    image: ./assets/img/detd_tip24.png
-    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10751766
-    code:
-    bibtex: https://ieeexplore.ieee.org/abstract/document/10751766
-
   - title: Fine-Grained Domain Generalization with Feature Structuralization
     authors: <strong>Wenlong Yu</strong>, Ruonan Liu, Dongyue Chen, Qinghua Hu
     conference_short: IEEE TMM
@@ -24,6 +15,15 @@ main:
     pdf:
     code:
     bibtex:
+
+  - title: Explainability Enhanced Object Detection Transformer With Feature Disentanglement
+    authors: <strong>Wenlong Yu</strong>, Dongyue Chen, Qilong Wang, Qinghua Hu
+    conference_short: IEEE TIP
+    conference:  IEEE Transactions on Image Processing <strong>(IEEE TIP)</strong>, 2024.
+    image: ./assets/img/detd_tip24.png
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10751766
+    code:
+    bibtex: https://ieeexplore.ieee.org/abstract/document/10751766
 
   - title: Bayesian hierarchical graph neural networks with uncertainty feedback for trustworthy fault diagnosis of industrial processes
     authors: Dongyue Chen, Zongxia Xie, Ruonan Liu, <strong>Wenlong Yu</strong>, Qinghua Hu, Xianling Li, Steven X Ding
