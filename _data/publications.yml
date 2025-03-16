@@ -32,7 +32,7 @@ main:
     conference_short: CVPR
     conference:  Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
     notes: Early Accept
-    image: ./assets/img/CREATE.png
+    image: ./assets/img/coe.png
 
   - title: Persistence Homology Distillation for Semi-supervised Continual Learning
     authors: <strong>Yan Fan</strong>, Yu Wang, Pengfei Zhu, Dongyue Chen, Qinghua Hu
@@ -40,6 +40,6 @@ main:
     conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://openreview.net/pdf?id=qInb7EUmxz
     code: https://github.com/fanyan0411/PSHD
-    image: ./assets/img/PsHD-framework.PNG
+    image: ./assets/img/UaSGT_framework.png.png
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:JZub_bBhThcJ:scholar.google.com/&output=citation&scisdr=ClHwSeveEMbToQ4C15I:AFWwaeYAAAAAZ7MEz5Kh0P80T0dSMfJQlHWaxFc&scisig=AFWwaeYAAAAAZ7MEz2Kji-4Uea5kv4_D832HNEY&scisf=4&ct=citation&cd=-1&hl=zh-CN
     
