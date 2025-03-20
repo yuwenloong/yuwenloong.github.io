@@ -7,7 +7,7 @@ main:
     notes: Early Accept
     image: ./assets/img/coe-cvpr25.png
     pdf: https://arxiv.org/pdf/2503.15234
-    code:
+    code: https://github.com/YuWLong666/CoE
     bibtex:
 
   - title: Fine-Grained Domain Generalization with Feature Structuralization
