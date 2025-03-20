@@ -11,7 +11,7 @@ main:
     bibtex:
 
   - title: Fine-Grained Domain Generalization with Feature Structuralization
-    authors: <strong>Wenlong Yu</strong>, Ruonan Liu, Dongyue Chen, Qinghua Hu
+    authors: <strong>Wenlong Yu</strong>, Dongyue Chen, Qilong Wang, Qinghua Hu
     conference_short: IEEE TMM
     conference: IEEE Transactions on Multimedia <strong>(IEEE TMM)</strong>, 2025. 
     image: ./assets/img/fsdg-tmm25.png
@@ -21,7 +21,7 @@ main:
     notes: Early Accept
 
   - title: Explainability Enhanced Object Detection Transformer With Feature Disentanglement
-    authors: <strong>Wenlong Yu</strong>, Dongyue Chen, Qilong Wang, Qinghua Hu
+    authors: <strong>Wenlong Yu</strong>, Ruonan Liu, Dongyue Chen, Qinghua Hu
     conference_short: IEEE TIP
     conference:  IEEE Transactions on Image Processing <strong>(IEEE TIP)</strong>, 2024.
     image: ./assets/img/detd_tip24.png
