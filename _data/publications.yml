@@ -6,6 +6,9 @@ main:
     conference:  IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
     notes: Early Accept
     image: ./assets/img/coe-cvpr25.png
+    pdf: https://arxiv.org/pdf/2503.15234
+    code:
+    bibtex:
 
   - title: Fine-Grained Domain Generalization with Feature Structuralization
     authors: <strong>Wenlong Yu</strong>, Ruonan Liu, Dongyue Chen, Qinghua Hu
