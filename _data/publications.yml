@@ -15,8 +15,8 @@ main:
     conference_short: IEEE TMM
     conference: IEEE Transactions on Multimedia <strong>(IEEE TMM)</strong>, 2025. 
     image: ./assets/img/fsdg-tmm25.png
-    pdf:
-    code:
+    pdf: https://arxiv.org/pdf/2406.09166
+    code: https://github.com/YuWLong666/FSDG
     bibtex:
     notes: Early Accept
 
